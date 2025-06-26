@@ -65,7 +65,7 @@ PORT=8080
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/youtube-analysis-service.git
+   git clone https://github.com/Sannidhi1112/youtube-analysis-service.git
    cd youtube-analysis-service
    ```
 
