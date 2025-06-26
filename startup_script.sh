@@ -27,8 +27,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 mkdir -p /opt/youtube-analysis
 cd /opt/youtube-analysis
 
-# Clone the repository (replace with your actual repo URL)
-git clone https://github.com/yourusername/youtube-analysis-service.git .
+# Clone the repository
+git clone https://github.com/Sannidhi1112/youtube-analysis-service.git
 
 # Create data directories with proper permissions
 mkdir -p data/{uploads,results,screenshots,audio}
