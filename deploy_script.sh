@@ -142,7 +142,7 @@ mkdir -p /opt/youtube-analysis
 cd /opt/youtube-analysis
 
 # Clone repository
-git clone https://github.com/yourusername/youtube-analysis-service.git .
+https://github.com/Sannidhi1112/youtube-analysis-service.git
 
 # Create data directories
 mkdir -p data/{uploads,results,screenshots,audio}
