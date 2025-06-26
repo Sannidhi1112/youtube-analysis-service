@@ -1,0 +1,202 @@
+{
+  "job_id": "a7b8c9d0-e1f2-3456-7890-123456789abc",
+  "timestamp": "2025-06-26T15:30:45.123Z",
+  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "screenshot_path": "/screenshots/a7b8c9d0-e1f2-3456-7890-123456789abc.png",
+  "audio_path": "/audio/a7b8c9d0-e1f2-3456-7890-123456789abc.wav",
+  "transcript": {
+    "language": "en",
+    "duration": 212.5,
+    "segments": [
+      {
+        "id": 0,
+        "text": "We're no strangers to love, you know the rules and so do I",
+        "start": 0.0,
+        "end": 4.2,
+        "speaker": "SPEAKER_00",
+        "words": [
+          {
+            "word": "We're",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.99
+          },
+          {
+            "word": "no",
+            "start": 0.3,
+            "end": 0.5,
+            "probability": 0.98
+          },
+          {
+            "word": "strangers",
+            "start": 0.5,
+            "end": 1.1,
+            "probability": 0.97
+          },
+          {
+            "word": "to",
+            "start": 1.1,
+            "end": 1.2,
+            "probability": 0.99
+          },
+          {
+            "word": "love",
+            "start": 1.2,
+            "end": 1.6,
+            "probability": 0.98
+          }
+        ],
+        "ai_detection": {
+          "ai_probability": 0.08,
+          "classification": "human",
+          "confidence": 0.92
+        }
+      },
+      {
+        "id": 1,
+        "text": "A full commitment's what I'm thinking of",
+        "start": 4.2,
+        "end": 7.8,
+        "speaker": "SPEAKER_00",
+        "words": [
+          {
+            "word": "A",
+            "start": 4.2,
+            "end": 4.3,
+            "probability": 0.99
+          },
+          {
+            "word": "full",
+            "start": 4.3,
+            "end": 4.6,
+            "probability": 0.98
+          },
+          {
+            "word": "commitment's",
+            "start": 4.6,
+            "end": 5.4,
+            "probability": 0.96
+          },
+          {
+            "word": "what",
+            "start": 5.4,
+            "end": 5.6,
+            "probability": 0.99
+          },
+          {
+            "word": "I'm",
+            "start": 5.6,
+            "end": 5.8,
+            "probability": 0.98
+          },
+          {
+            "word": "thinking",
+            "start": 5.8,
+            "end": 6.3,
+            "probability": 0.97
+          },
+          {
+            "word": "of",
+            "start": 6.3,
+            "end": 6.5,
+            "probability": 0.99
+          }
+        ],
+        "ai_detection": {
+          "ai_probability": 0.12,
+          "classification": "human",
+          "confidence": 0.88
+        }
+      },
+      {
+        "id": 2,
+        "text": "You wouldn't get this from any other guy",
+        "start": 7.8,
+        "end": 11.5,
+        "speaker": "SPEAKER_00",
+        "words": [
+          {
+            "word": "You",
+            "start": 7.8,
+            "end": 8.0,
+            "probability": 0.99
+          },
+          {
+            "word": "wouldn't",
+            "start": 8.0,
+            "end": 8.5,
+            "probability": 0.97
+          },
+          {
+            "word": "get",
+            "start": 8.5,
+            "end": 8.7,
+            "probability": 0.98
+          },
+          {
+            "word": "this",
+            "start": 8.7,
+            "end": 8.9,
+            "probability": 0.99
+          },
+          {
+            "word": "from",
+            "start": 8.9,
+            "end": 9.2,
+            "probability": 0.98
+          },
+          {
+            "word": "any",
+            "start": 9.2,
+            "end": 9.5,
+            "probability": 0.99
+          },
+          {
+            "word": "other",
+            "start": 9.5,
+            "end": 9.8,
+            "probability": 0.98
+          },
+          {
+            "word": "guy",
+            "start": 9.8,
+            "end": 10.2,
+            "probability": 0.97
+          }
+        ],
+        "ai_detection": {
+          "ai_probability": 0.15,
+          "classification": "human",
+          "confidence": 0.85
+        }
+      }
+    ],
+    "speakers": [
+      {
+        "speaker": "SPEAKER_00",
+        "segments": [0, 1, 2],
+        "total_speaking_time": 11.5
+      }
+    ]
+  },
+  "processing_time": {
+    "screenshot": 2.1,
+    "audio_download": 8.3,
+    "transcription": 15.7,
+    "ai_detection": 3.2,
+    "total": 29.3
+  },
+  "metadata": {
+    "video_title": "Rick Astley - Never Gonna Give You Up (Official Video)",
+    "video_duration": 212,
+    "audio_format": "wav",
+    "audio_sample_rate": 16000,
+    "audio_channels": 1,
+    "screenshot_resolution": "1280x720",
+    "file_sizes": {
+      "audio_mb": 5.2,
+      "screenshot_kb": 180
+    }
+  },
+  "status": "completed"
+}
