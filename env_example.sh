@@ -1,12 +1,11 @@
 # YouTube Analysis Service Environment Variables
 
-# Required API Keys
-ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
-GPTZERO_API_KEY=your_gptzero_api_key_here
-
-# Optional Configuration
-NODE_ENV=production
+# Create/update your .env file
+cat > .env << 'EOF'
+ELEVENLABS_API_KEY=sk_66cb33663690d92af17b5b09ca2ce9686b4323a9640f6ffa
+NODE_ENV=development
 PORT=8080
+EOF
 
 # Advanced Configuration (Optional)
 MAX_CONCURRENT_JOBS=5
